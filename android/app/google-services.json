@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "252681830236",
+    "project_id": "frostyfoods-fc646",
+    "storage_bucket": "frostyfoods-fc646.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252681830236:android:14b21fe4a6420bd2d28b99",
+        "android_client_info": {
+          "package_name": "com.frostyfoods.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-iiP6Hf6wjQpNm8LEO3nQYmDcHFgYbdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252681830236:android:dcc54fb40e81b002d28b99",
+        "android_client_info": {
+          "package_name": "com.frostyfoods.deliveryman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-iiP6Hf6wjQpNm8LEO3nQYmDcHFgYbdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
